@@ -38,6 +38,7 @@
 
 # Tasks:
    - Build from jenkins
+   - Build with push trigger
    - Run tests from jenkins
    - Move generated build to different location.
    

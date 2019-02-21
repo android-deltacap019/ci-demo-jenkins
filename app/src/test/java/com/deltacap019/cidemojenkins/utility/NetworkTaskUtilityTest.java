@@ -18,7 +18,6 @@ import static junit.framework.TestCase.assertEquals;
 
 @RunWith(RobolectricTestRunner.class)
 @Config(manifest = Config.NONE)
-@Ignore
 public class NetworkTaskUtilityTest {
 
     private NetworkResponse networkResponse;
